@@ -1,7 +1,7 @@
 # help-me-decide
 simple app to help you make a decision 
 
-
+deployed at https://decide.lak.nz
 
 
 # Getting Started with Create React App
