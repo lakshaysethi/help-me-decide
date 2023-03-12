@@ -1,0 +1,5 @@
+.option-col{
+    display: inline-flex;
+    min-width: 100px;
+    border: 1px solid #ccc;
+}
